@@ -7,10 +7,13 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington using python
 
 ### Files used
-Include the files used
+1-washington.csv
+2-new_york_city.csv
+3-chicago.csv
+4-bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
