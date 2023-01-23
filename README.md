@@ -23,3 +23,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ###About me
 My name is azzam, I am a senior computer science student at Jubail university collage.
+
+###Duration of work on the project
+To finish this project I have to work on it almost 3 hours  
